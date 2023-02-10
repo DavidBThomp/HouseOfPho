@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+
+html {
+    background-color: #8FC857;
+}
+
+.wrapper {
+    width: 800px;
+    background-color: white;
+    margin: auto;
+}
+
+.banner {
+    height: 180px;
+    position: relative;
+}
+
+#title {
+    position: absolute;
+    display: inline-flex;
+    left: 60px;
+    bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+#smalltitle {
+    background: rgb(186,138,67);
+    background: linear-gradient(90deg, rgba(186,138,67,0.0984768907563025) 0%, rgba(186,138,67,0.3) 5%, rgba(186,138,67,0.8) 50%, rgba(186,138,67,0.3) 95%, rgba(186,138,67,0.0984768907563025) 100%);
+    display: inline-flex;
+    position: absolute;
+    text-align: right;
+    bottom: 20px;
+    right: 20px;
+    padding: 0 20px 0 100px;
+}
+
+#bannerimage {
+    position: absolute;
+    bottom: 15px;
+    left: 180px;
+}
+
+
+/*                  EXPERIMENTAL BANNER
+ .banner  {
+    display: flex;
+    justify-content: center;
+}
+
+#title {
+    background-color: green;
+    margin: 0 40%;
+    display: flex;
+}
+
+#smalltitle {
+    background-color: purple;
+    margin: 0 40%;
+} */
+
+
+.navbar {
+    display: inline-block;
+    justify-content: center;
+    background-color: #8FC857;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    padding: 13px 0 13px 0;
+}
+
+.navbar a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 4.5%;
+    font-size: 1.5rem;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.mainbody {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 450px;
+}
+
+.maintext {
+    margin: 0;
+    padding-top: 30px;
+    padding-left: 10px;
+    display: inline;
+}
+
+h3 {
+    padding: 0;
+    margin: 0;
+}
+
+h4 {
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.mainimage {
+    display: inline-block;
+    margin-right: -4px;
+    padding-top: 50px;
+}
+
+footer {
+    text-align: center;
+    color: #FCE1C3;
+    margin-top: 40px;
+    background-color: #8FC857;
+}
+
+.red {
+    color: #D74141;
+}
+
+#deliver {
+    font-size: 1.5rem;
+}
+
+#home {
+    margin: 0 4.5% 0 0;
+}
+
+#order {
+    margin: 0 0 0 4.5%;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+#tel {
+    font-size: 36px;
+    line-height: 42px;
+}
+
+#fax {
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.ad {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color: black;
+}
+
+.hours {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.open {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+#titlelink {
+    text-decoration: none;
+    color: #D74141;
+    font-family: 'Racing Sans One', cursive;
+    font-size: 4rem;
+}
+
+#bannergradient {
+    width: 50px;
+    height: 180px;
+    background: rgb(69,214,1);
+    background: linear-gradient(0deg, rgba(69,214,1,0.4458158263305322) 0%, rgba(52,112,25,0.6951155462184874) 100%);
+}
+
+#bodygradient {
+    width: 50px;
+    height: 450px;
+    background: rgb(52,112,25);
+    background: linear-gradient(0deg, rgba(52,112,25,0.6951155462184874) 0%, rgba(69,214,1,0.4458158263305322) 100%);
+}
+
+.creditcard {
+    margin: 0 10px;
+}
