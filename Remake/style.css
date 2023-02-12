@@ -22,6 +22,10 @@ body {
     letter-spacing: 1px;
 }
 
+.weight700 {
+    font-weight: 700;
+}
+
 nav {
     display: flex;
     justify-content: center;
@@ -47,7 +51,19 @@ nav {
     overflow: hidden;
 
     border-bottom: white solid 2px;
+
+    opacity: 0;
 }
+
+.topHalf img {
+    transition: transform 500ms;
+}
+
+.topHalf img:hover {
+    transform: scale(1.2);
+}
+
+
 
 nav a img {
     height: 200px;
@@ -97,9 +113,15 @@ main h2 {
 
 #centerHome {
     background-color: beige;
-    color: darkred;
+    color: firebrick;
     border-radius: 5%;
     padding: 20px;
+
+    transition: transform 500ms;
+}
+
+#centerHome:hover {
+    transform: scale(1.2);
 }
 
 #bottomImg {
@@ -119,6 +141,12 @@ main h2 {
     max-height: 50vh;
     max-width: auto;
     overflow-x: hidden;
+
+    transition: transform 500ms;
+}
+
+#rightImg:hover {
+    transform: translate(-100px, 100px) scale(1.1);
 }
 
 #leftImg {
