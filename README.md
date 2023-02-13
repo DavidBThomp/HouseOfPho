@@ -15,10 +15,9 @@ Site to Fix: http://houseofphomenu.com/
 * Website Wireframe in HTML/CSS ✔️
 * Recreate Site using  CSS and HTML Maybe add some JS!? ✔️
 
-### Create New Site
-* Wireframe FIGMA
-* Create HTML CSS WireFrame
-* Animate Figma
-* Decorate Wireframe (Color/Text/Images)
-* Decorated HTML CSS
-* Make Interactive (JS? Ruby?)
+### Create New Site ✔️✔️✔️
+* Site Layout ✔️
+* Sitemap Update ✔️
+* Color/Theme ✔️
+* Images ✔️
+* Site Optimized ✔️
