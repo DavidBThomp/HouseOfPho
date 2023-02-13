@@ -121,7 +121,8 @@ nav a:hover {
 
 #bottomImg {
     width: 100%;
-    min-width: 500px;
+    max-width: 1000px;
+    height: auto;
     overflow: hidden;
     display: block;
 
@@ -190,9 +191,9 @@ iframe {
     #leftImg {
         display: block;
         position: absolute;
-        left: -400px;
+        left: -250px;
 
-        max-height: 50vh;
+        max-height: 60vh;
         max-width: auto;
         overflow: hidden;
     }
@@ -200,10 +201,10 @@ iframe {
     #rightImg {
         display: block;
         position: absolute;
-        right: -400px;
+        right: -250px;
         top: -50px;
 
-        max-height: 50vh;
+        max-height: 60vh;
         max-width: auto;
         overflow-x: hidden;
 
@@ -214,7 +215,7 @@ iframe {
         display: block;
         margin: calc(50vh - 260px) auto;
 
-        max-height: 50vh;
+        max-height: 60vh;
         width: auto;
         overflow: hidden;
     }
@@ -251,7 +252,7 @@ iframe {
         position: absolute;
         left: -30px;
 
-        max-height: 50vh;
+        max-height: 60vh;
         max-width: auto;
         overflow: hidden;
     }
@@ -262,7 +263,7 @@ iframe {
         right: -110px;
         top: -20px;
 
-        max-height: 50vh;
+        max-height: 60vh;
         max-width: auto;
         overflow-x: hidden;
 
