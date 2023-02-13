@@ -97,8 +97,8 @@ nav a:hover {
 .topHalf {
     position: relative;
 
-    height: calc(100vh - 260px);
-    margin: 5vh 0 0 0;
+    height: calc(100vh - 198px);
+    margin: 10px 0 0 0;
     overflow: hidden;
 
     border-bottom: white solid 2px;
@@ -232,8 +232,6 @@ iframe {
     nav {
         justify-content: center;
     }
-
-
 }
 
 /* Footer Spacing */
