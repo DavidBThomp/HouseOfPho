@@ -1,12 +1,7 @@
 # Project-Alpha
 
 Site to Fix: http://houseofphomenu.com/
-
-## To-Do
-## Withing Wireframing!!
-* Menu page
-* Contact Page
-* Insert Phone Number/Contact
+Remade Site: https://houseofpho.netlify.app/remake/
 
 ### Recreate Site ✔️✔️✔️
 * Steal site colors/text ✔️
@@ -21,3 +16,10 @@ Site to Fix: http://houseofphomenu.com/
 * Color/Theme ✔️
 * Images ✔️
 * Site Optimized ✔️
+
+
+## Changes
+The original site was a image on HTML page. This worked when the viewer was on a wide viewport, but this approach fails on smaller viewports and lacks basic website functionality. The ability to copy, click, and navigate the site needs to be implemented.
+
+## Updated Site
+The new site has a new color theme, changs to the navigation, and is mobile responsive.
