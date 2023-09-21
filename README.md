@@ -1,7 +1,7 @@
 # Project-Alpha
 
 Site to Fix: http://houseofphomenu.com/
-Remade Site: https://houseofpho.netlify.app/remake/
+Remade Site: [https://houseofpho.netlify.app/remake/](https://houseofpho.netlify.app/)
 
 ### Recreate Site ✔️✔️✔️
 * Steal site colors/text ✔️
